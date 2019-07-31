@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "toDoApp.Android", "toDoApp\toDoApp.Android\toDoApp.Android.csproj", "{10FF9211-C078-483E-AFFE-3AD8AFAF3AF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "toDoApp", "toDoApp\toDoApp\toDoApp.csproj", "{6845BD1B-8FA9-47D1-9DD2-60EB9C86442D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10FF9211-C078-483E-AFFE-3AD8AFAF3AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10FF9211-C078-483E-AFFE-3AD8AFAF3AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10FF9211-C078-483E-AFFE-3AD8AFAF3AF7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{10FF9211-C078-483E-AFFE-3AD8AFAF3AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10FF9211-C078-483E-AFFE-3AD8AFAF3AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10FF9211-C078-483E-AFFE-3AD8AFAF3AF7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6845BD1B-8FA9-47D1-9DD2-60EB9C86442D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6845BD1B-8FA9-47D1-9DD2-60EB9C86442D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6845BD1B-8FA9-47D1-9DD2-60EB9C86442D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6845BD1B-8FA9-47D1-9DD2-60EB9C86442D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6845BD1B-8FA9-47D1-9DD2-60EB9C86442D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6845BD1B-8FA9-47D1-9DD2-60EB9C86442D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC612809-F5E7-480C-9407-1544EEB0E2E0}
+	EndGlobalSection
+EndGlobal
