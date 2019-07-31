@@ -3,8 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="toDoApp.newToDoPage">
     <StackLayout Margin="10,10,10,0">
-        <Entry Placeholder="Write the name of task"/>
-        <Entry Placeholder="Write the description of the task"/>
+        <Entry x:Name="nameEntry" Placeholder="Write the name of task"/>
+        <Entry x:Name="descriptionEntry" Placeholder="Write the description of the task"/>
         <Button Text="Save" Clicked="Button_Clicked"/> 
     </StackLayout>
 </ContentPage>

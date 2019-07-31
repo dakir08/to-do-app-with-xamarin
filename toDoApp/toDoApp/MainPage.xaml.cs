@@ -14,6 +14,21 @@ namespace toDoApp
             InitializeComponent();
         }
 
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+
+            using (SQLite.SQLiteConnection conn = new SQLite.SQLiteConnection(App.DB_PATH))
+            {
+                conn.CreateTable<List>();
+
+                var lists = conn.Table<List>().ToList();
+
+                Console.WriteLine("ASDKLAJDLASJKD" + lists);
+
+                ListView.ItemsSource = lists;
+            }
+        }
         private void ToolbarItem_Activated(object sender, EventArgs e)
         {
             Navigation.PushAsync(new newToDoPage());

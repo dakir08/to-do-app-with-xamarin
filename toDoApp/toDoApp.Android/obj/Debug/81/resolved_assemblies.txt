@@ -3,6 +3,12 @@ F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\FormsView
 F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\Java.Interop.dll
 F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\Mono.Android.dll
 F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\mscorlib.dll
+F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\SQLite-net.dll
+F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\SQLitePCLRaw.batteries_green.dll
+F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\SQLitePCLRaw.batteries_v2.dll
+F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\SQLitePCLRaw.core.dll
+F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\SQLitePCLRaw.lib.e_sqlite3.dll
+F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
 F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\System.Core.dll
 F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\System.dll
 F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\System.Xml.dll
@@ -34,6 +40,18 @@ F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\Xamarin.F
 F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\System.Net.Http.dll
 F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.dll
 F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.dll
+F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\System.Runtime.dll
+F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.dll
+F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\System.Collections.dll
+F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\System.Runtime.Extensions.dll
+F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\System.Linq.Expressions.dll
+F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\System.Reflection.dll
+F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\System.Diagnostics.Debug.dll
+F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\System.Threading.Tasks.dll
+F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\System.Linq.dll
+F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\System.Threading.dll
+F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\System.Reflection.Extensions.dll
+F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\System.Globalization.dll
 F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\Mono.Security.dll
 F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\netstandard.dll
 F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\System.Data.dll
@@ -41,5 +59,4 @@ F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\System.Nu
 F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\System.Transactions.dll
 F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\System.IO.Compression.dll
 F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.dll
-F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.dll
 F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\android\assets\System.Web.Services.dll

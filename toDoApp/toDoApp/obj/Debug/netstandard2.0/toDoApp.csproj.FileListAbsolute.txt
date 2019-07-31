@@ -6,8 +6,7 @@ F:\project\toDoApp\toDoApp\toDoApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 F:\project\toDoApp\toDoApp\toDoApp\obj\Debug\netstandard2.0\toDoApp.csproj.CoreCompileInputs.cache
 F:\project\toDoApp\toDoApp\toDoApp\obj\Debug\netstandard2.0\toDoApp.AssemblyInfoInputs.cache
 F:\project\toDoApp\toDoApp\toDoApp\obj\Debug\netstandard2.0\toDoApp.AssemblyInfo.cs
-F:\project\toDoApp\toDoApp\toDoApp\obj\Debug\netstandard2.0\XamlC.stamp
 F:\project\toDoApp\toDoApp\toDoApp\obj\Debug\netstandard2.0\toDoApp.dll
 F:\project\toDoApp\toDoApp\toDoApp\obj\Debug\netstandard2.0\toDoApp.pdb
 F:\project\toDoApp\toDoApp\toDoApp\obj\Debug\netstandard2.0\newToDoPage.xaml.g.cs
-F:\project\toDoApp\toDoApp\toDoApp\obj\Debug\netstandard2.0\toDoApp.csprojAssemblyReference.cache
+F:\project\toDoApp\toDoApp\toDoApp\obj\Debug\netstandard2.0\XamlC.stamp

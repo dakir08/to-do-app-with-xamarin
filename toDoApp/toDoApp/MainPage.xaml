@@ -5,7 +5,17 @@
              x:Class="toDoApp.MainPage">
 
     <ContentPage.ToolbarItems>
+        <ToolbarItem Text="To do app" Priority="1"/>
         <ToolbarItem Text="+" Activated="ToolbarItem_Activated"/>
     </ContentPage.ToolbarItems>
+
+    <ListView x:Name="ListView">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <TextCell Text="{Binding Name}" 
+                          Detail="{Binding Description}"/>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
 
 </ContentPage>
