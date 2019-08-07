@@ -2,9 +2,14 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="toDoApp.newToDoPage">
-    <StackLayout Margin="10,10,10,0">
-        <Entry x:Name="nameEntry" Placeholder="Write the name of task"/>
-        <Entry x:Name="descriptionEntry" Placeholder="Write the description of the task"/>
-        <Button Text="Save" Clicked="Button_Clicked"/> 
+    <StackLayout Margin="20" VerticalOptions="StartAndExpand">
+        <Label Text="Task Name" />
+        <Entry Text="{Binding Name}" Placeholder="Write the name of task" />
+        <Label Text="Task Description" />
+        <Entry Text="{Binding Description}" Placeholder="Write the description of the task" />
+        <Label Text="Task finish" />
+        <Switch IsToggled="{Binding isDone}" />
+        <Button Text="Save" Clicked="onSave" />
+        <Button Text="Delete" Clicked="onDelete" />
     </StackLayout>
 </ContentPage>

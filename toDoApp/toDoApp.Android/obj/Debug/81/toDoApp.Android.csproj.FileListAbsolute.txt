@@ -34,6 +34,7 @@ F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\res\mipmap-xxxhdpi\launc
 F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\R.cs.flag
 F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\R.txt
 F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\uploadflags.txt
+F:\project\toDoApp\toDoApp\toDoApp.Android\obj\Debug\81\res\drawable\plus.png
 F:\project\toDoApp\toDoApp\toDoApp.Android\bin\Debug\FormsViewGroup.pdb
 F:\project\toDoApp\toDoApp\toDoApp.Android\bin\Debug\Mono.Android.pdb
 F:\project\toDoApp\toDoApp\toDoApp.Android\bin\Debug\mscorlib.pdb
