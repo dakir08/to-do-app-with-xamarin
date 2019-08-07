@@ -15,3 +15,6 @@ This app is made by xamarin and SQLite
 	Add a new item to the list of tasks.
 	Set a task's status to 'completed'.
 
+# License
+=====================
+See the [license file](LICENSE).
