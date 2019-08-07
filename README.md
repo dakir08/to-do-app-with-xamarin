@@ -16,5 +16,4 @@ This app is made by xamarin and SQLite
 	Set a task's status to 'completed'.
 
 # License
-=====================
 See the [license file](LICENSE).
